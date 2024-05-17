@@ -5,7 +5,9 @@ module.exports = {
       center: true,
     },
     extend: {
-      colors: {},
+      colors: {
+        "real-gray": "#F0EFEF",
+      },
       fontFamily: {
         chakra: ["Chakra Petch", "sans-serif"],
       },

@@ -5,10 +5,11 @@
 /*Your Custom CSS Goes here*/
 
 p {
-  @apply font-chakra font-normal;
+  @apply font-chakra font-normal text-xs leading-3;
 }
 
-a {@apply font-chakra font-normal;
+a {
+  @apply font-chakra font-normal text-xs leading-3;
 }
 
 h1 {

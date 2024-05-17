@@ -1,7 +1,7 @@
 <div class="w-full max-w-2xl my-8 lg:mx-0">
   <ul class="list-inside">
     {% if quicklinks.links %} {% for item in quicklinks.links %}
-    <li class="list-none p-0">
+    <li class="list-none p-0 h-5">
       <a href="{{item.url}}" target="_blank"> {{item.title}} </a>
     </li>
     {% endfor %} {% endif %}

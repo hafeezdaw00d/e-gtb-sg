@@ -6,6 +6,9 @@ module.exports = {
     },
     extend: {
       colors: {},
+      fontFamily: {
+        chakra: ["Chakra Petch", "sans-serif"],
+      },
     },
   },
   variants: {},

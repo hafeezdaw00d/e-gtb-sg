@@ -4,6 +4,13 @@
 
 /*Your Custom CSS Goes here*/
 
+p {
+  @apply font-chakra font-normal;
+}
+
+a {@apply font-chakra font-normal;
+}
+
 h1 {
   @apply text-4xl tracking-tighter mb-3 text-center lg:text-7xl;
 }

@@ -25,6 +25,7 @@
   },
   "dependencies": {
     "autoprefixer": "^10.4.2",
+    "decap-cms-app": "^3.1.10",
     "postcss": "^8.4.5"
   }
 }

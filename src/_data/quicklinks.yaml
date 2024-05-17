@@ -3,11 +3,11 @@ links:
     url: https://moshtix.com.au/v2/event/ecco2k/164936
     desc: Open source content management for your Git workflow
   - title: 02/06 – Melbourne (Prince Bandroom)*
-    url: https://moshtix.com.au/v2/event/ecco2k/164936
-    desc: Eleventy is a simpler static site generator.
-  - title: 03/06 – Melbourne (170 Russell)
     url: https://princebandroom.oztix.com.au/outlet/event/
       a408512f-2c2c-4486-9b42-21de54f55932
+    desc: Eleventy is a simpler static site generator.
+  - title: 03/06 – Melbourne (170 Russell)
+    url: https://moshtix.com.au/v2/event/ecco2k/164936
     desc: A minimal framework for composing JavaScript behavior in your markup.
   - title: 04/06 – Brisbane (The Triffid)
     url: https://moshtix.com.au/v2/event/ecco2k/164936

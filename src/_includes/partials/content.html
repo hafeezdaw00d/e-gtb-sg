@@ -2,7 +2,7 @@
   <ul class="list-inside">
     {% if quicklinks.links %} {% for item in quicklinks.links %}
     <li class="list-none p-0">
-      <a href="{{item.url}}" target="_blank"> {{item.name}} </a>
+      <a href="{{item.url}}" target="_blank"> {{item.title}} </a>
     </li>
     {% endfor %} {% endif %}
   </ul>
